@@ -1,4 +1,9 @@
 <?php
+/*
+  Author: Mustafa Salman YT
+  Web: mustafa.slmn.tr
+  Mail: mustafa@slmn.tr
+*/
 
 !defined("index") ? die("Geçersiz İstek :(") : null;
 date_default_timezone_set('Europe/Istanbul');
