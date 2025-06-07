@@ -194,7 +194,7 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 ## 🔗 İlgili Projeler
 
 Bu log sistemi şu projelerimde kullanılmaktadır:
-- [PHP Database Kütüphanesi](https://github.com/username/php-database-library) - Veritabanı hata loglaması için
+- [PHP Database Kütüphanesi](https://github.com/mustafasalmanyt/php-pdo-database) - Veritabanı hata loglaması için
 
 ## 👨‍💻 Geliştirici
 
